@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ContadorDeClic/static/css/main.c641655f.css",
+    "main.js": "/ContadorDeClic/static/js/main.ee2c60a8.js",
+    "static/media/logo.png": "/ContadorDeClic/static/media/logo.5486935b905c7949600c.png",
+    "index.html": "/ContadorDeClic/index.html",
+    "main.c641655f.css.map": "/ContadorDeClic/static/css/main.c641655f.css.map",
+    "main.ee2c60a8.js.map": "/ContadorDeClic/static/js/main.ee2c60a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c641655f.css",
+    "static/js/main.ee2c60a8.js"
+  ]
+}
